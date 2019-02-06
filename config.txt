@@ -1,0 +1,6 @@
+﻿token=
+owner=281959460946182155
+prefix=9
+game= .
+stayinchannel=true
+songinstatus=true
