@@ -1,6 +1,6 @@
-﻿token=
-owner=281959460946182155
-prefix=9
+﻿token=NTQyODQwNDUxNTQwMDU4MTIy.Dzz3IA.IbxxJgp0q6yMd7zdNfMQC2vGbnc
+owner=431569844819722241
+prefix=v
 game= .
 stayinchannel=true
 songinstatus=true
